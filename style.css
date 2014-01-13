@@ -1,0 +1,8 @@
+body { margin: 0; }
+
+.video-layer {
+    overflow: hidden;
+    height: 100%;
+    position: relative; }
+.video-layer img {
+    max-width: none; }
